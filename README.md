@@ -1,2 +1,2 @@
 # Fsharp-samples
-Small cose samples for Fsharp
+Small code samples for Fsharp
